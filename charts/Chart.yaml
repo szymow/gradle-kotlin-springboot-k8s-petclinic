@@ -1,0 +1,6 @@
+apiVersion: v2
+name: helm
+description: "A Helm chart for our gradle-kotlin-springboot-k8s-petclinic application"
+type: application
+version: 0.1.0
+appVersion: latest

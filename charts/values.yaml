@@ -1,0 +1,7 @@
+appName: gradle-kotlin-springboot-k8s-petclinic
+namespace: default
+appVersion: latest
+replicaCount: 1
+image:
+  registry: zieglerlabs-registry
+  pullPolicy: Never
